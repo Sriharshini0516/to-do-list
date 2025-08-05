@@ -26,8 +26,11 @@ It allows users to add, mark as complete, and delete tasks with **modern UI effe
 ---
 
 ## 📁 Project Structure
-odo-list-app/
+to-do-list-app/
+
 ├── index.html # Main HTML file
+
 ├── style.css # All styles (modern theme + animations)
+
 └── script.js # Logic for adding, marking, and deleting tasks
 
